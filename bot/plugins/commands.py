@@ -47,7 +47,7 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('⭕️Join Channel⭕️', url='https://t.me/tamil_rockers_mallu'),
+        InlineKeyboardButton('⭕️Join Main Channel⭕️', url='https://t.me/tamil_rockers_mallu'),
         InlineKeyboardButton('Source Code 🧾', url ='https://github.com/Pewerhouse/Adv-Auto-Filter-Bot-V2')
     ],[
         InlineKeyboardButton('⭕️Support⭕️', url='https://t.me/mmf_chat)
